@@ -4,7 +4,7 @@
 
 ### [Linear Equations](./Single Linear PDEs)
 
-1. Laplace’s equation
+1. [Laplace’s equation](./Single Linear PDEs/laplace_equation.ipynb)
 
 Consider Laplace's equation in 2D dimension:
 $$\frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2} = 0, \quad (x, y) \in [0, 1]^2$$
